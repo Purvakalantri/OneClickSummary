@@ -1,5 +1,6 @@
-.env
-venv/
-firebase_key.json
-__pycache__/
-*.pyc
+# .env
+# venv/
+# firebase_key.json
+# __pycache__/
+# *.pyc
+extension/
